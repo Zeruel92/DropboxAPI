@@ -6,7 +6,7 @@ import java.io.*;
 import java.util.List;
 
 class Main {
-    static final String ACCESS_TOKEN = "Mk6Tr-1v8RYAAAAAAAB4H2hhwZlsZVVQn0X98wi8i2Zh5afXjSrxgmR2yc_J-ZFm";
+    static final String ACCESS_TOKEN = "insert_here_token";
 
     public static void main(String args[]) throws DbxUsers.GetCurrentAccountException, DbxException, IOException {
         // Create Dropbox client
